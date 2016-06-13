@@ -1,3 +1,5 @@
+# Dead fork: use https://github.com/QubitProducts/opentag-library-sdk
+
 # Tag Library Repository & Development Tools
 
 ## Introduction
